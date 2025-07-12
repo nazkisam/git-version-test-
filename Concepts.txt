@@ -1,0 +1,3 @@
+to amend the previous commit we use the amend with the next commit
+ git add .
+ git commit -m "version 1" --amend.
