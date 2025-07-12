@@ -1,3 +1,5 @@
 to amend the previous commit we use the amend with the next commit
  git add .
  git commit -m "version 1" --amend.
+ git reset file name or .  to take files out of staging area.  git checkout -- filename or .
+ 
